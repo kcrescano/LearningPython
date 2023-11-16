@@ -81,3 +81,4 @@ def post_card_message(post_card, message):
 
 arguments = [int(x) for x in input().split(" ")]
 xmas_post_card(*arguments)
+#testing
