@@ -1,4 +1,4 @@
- def xmas_post_card(*args):
+def xmas_post_card(*args):
     if len(args) == 2:
         tree = xmastree(args[0], args[1])
 
@@ -19,7 +19,7 @@
                     post_card[row].append(' ')
 
         for param in range(0, len(args), 4):
-            height, interval, y, x = args[param], args[param+1], args[param+2], args[param+3]
+            height, interval, y, x = args[param], args[param + 1], args[param + 2], args[param + 3]
             tree = xmastree(height, interval)
             for row in range(len(tree)):
                 for column in range(len(tree[row])):
@@ -33,7 +33,7 @@
             print()
 
 
-def xmastree(height, interval):
+def xmastree(height, interval, x=None, y=None):
     tree = [[], []]
     if height >= 3 and interval > 0:
         for _ in range(height - 1):
