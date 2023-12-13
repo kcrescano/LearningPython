@@ -1,3 +1,4 @@
+import random
 import random as r
 
 
@@ -44,14 +45,8 @@ class TicTacToe:
                 if self.players[self.turn] == "hard":
                     if possible_win[1][1] == '_':
                         x, y = 1, 1
-                    elif possible_win[0][0] == '_':
-                        x, y = 0, 0
-                    elif possible_win[0][2] == '_':
-                        x, y = 0, 2
-                    elif possible_win[2][0] == '_':
-                        x, y = 2, 0
-                    elif possible_win[2][2] == '_':
-                        x, y = 2, 2
+                    elif '_' in [possible_win[0][0], possible_win[0][2], possible_win[2][0], possible_win[2][2]]:
+                        x, y = random.choice((0, 2)), random.choice((0, 2))
 
                 for chance in possible_win:
                     if (chance.count('X') == 2 or chance.count('O') == 2) and '_' in chance:
