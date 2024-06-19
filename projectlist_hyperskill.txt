@@ -1,0 +1,479 @@
+https://hyperskill.org/projects/1 Smart Calculator (github)
+https://hyperskill.org/projects/2 Simple Search Engine (github)
+https://hyperskill.org/projects/3 Maze Runner  (github)
+https://hyperskill.org/projects/4 Digit Recognition (github)
+https://hyperskill.org/projects/5 Tic-Tac-Toe with AI  (github)
+https://hyperskill.org/projects/6 Coffee Machine in Kotlin (github)
+https://hyperskill.org/projects/7 Coffee Machine in Java (github)
+https://hyperskill.org/projects/8 Minesweeper (Kotlin)
+https://hyperskill.org/projects/9 Unit Converter in Kotlin
+https://hyperskill.org/projects/10 Name Badges Printer in Kotlin
+https://hyperskill.org/projects/11 Sorting Tool (github)
+https://hyperskill.org/projects/12 Encryption-Decryption (github)
+https://hyperskill.org/projects/13 Online Chat (github)
+https://hyperskill.org/projects/14 Blockchain (github)
+https://hyperskill.org/projects/15 Personal Assistant (github)
+https://hyperskill.org/projects/16 Text Editor  (github)
+https://hyperskill.org/projects/17 File Server (github)
+https://hyperskill.org/projects/18 JSON Database (github)
+https://hyperskill.org/projects/19 Bulls and Cows (github)
+https://hyperskill.org/projects/20 Flashcards (github)
+https://hyperskill.org/projects/21 Music Advisor  (github)
+https://hyperskill.org/projects/22 Game of Life (github)
+https://hyperskill.org/projects/23 Draw a Fractal (github)
+https://hyperskill.org/projects/24 Linear Equations Solver  (github)
+https://hyperskill.org/projects/25 Contacts (github)
+https://hyperskill.org/projects/26 Voice Computer Control (github)
+https://hyperskill.org/projects/27 Java Drawing (github)
+https://hyperskill.org/projects/28 Readability Score (github)
+https://hyperskill.org/projects/29 Error Correcting Encoder-Decoder (github)
+https://hyperskill.org/projects/30 Numeral System Converter (github)
+https://hyperskill.org/projects/31 Simple Chatty Bot
+https://hyperskill.org/projects/32 Web Crawler (github)
+https://hyperskill.org/projects/33 Coffee Machine Simulator with Java
+https://hyperskill.org/projects/34 Numeric Matrix Processor (github)
+https://hyperskill.org/projects/35 Phone Book (github)
+https://hyperskill.org/projects/36 file not found
+https://hyperskill.org/projects/37 File Type Analyzer (github)
+https://hyperskill.org/projects/38 Text Editor
+https://hyperskill.org/projects/39 Readability Score (Java)
+https://hyperskill.org/projects/40 Linear Equations Solver (Java)
+https://hyperskill.org/projects/41 Numeral System Converter (Java)
+https://hyperskill.org/projects/42 Smart Calculator with Java
+https://hyperskill.org/projects/43 Contacts (Java)
+https://hyperskill.org/projects/44 Flashcards (Java)
+https://hyperskill.org/projects/45 Sorting Tool with Java
+https://hyperskill.org/projects/46 Encryption-Decryption (Java)
+https://hyperskill.org/projects/47 Maze Runner (Java)
+https://hyperskill.org/projects/48 Simple Tic-Tac-Toe (Java)
+https://hyperskill.org/projects/49 Online Chat
+https://hyperskill.org/projects/50 Blockchain with Java
+https://hyperskill.org/projects/51 Digit Recognition
+https://hyperskill.org/projects/52 File Server
+https://hyperskill.org/projects/53 Bulls and Cows
+https://hyperskill.org/projects/54 Game of Life (Java)
+https://hyperskill.org/projects/55 Java Drawing
+https://hyperskill.org/projects/56 Draw a Fractal
+https://hyperskill.org/projects/57 Voice Computer Control
+https://hyperskill.org/projects/58 Error Correcting Encoder-Decoder
+https://hyperskill.org/projects/59 Web Crawler
+https://hyperskill.org/projects/60 Numeric Matrix Processor (Java)
+https://hyperskill.org/projects/61 JSON - XML converter
+https://hyperskill.org/projects/62 Music Advisor
+https://hyperskill.org/projects/63 Phone Book with Java
+https://hyperskill.org/projects/64 File Type Analyzer with Java
+https://hyperskill.org/projects/65 JSON Database with Java
+https://hyperskill.org/projects/66 Simple Search Engine (Java)
+https://hyperskill.org/projects/67 Coffee Machine (Kotlin)
+https://hyperskill.org/projects/68 Coffee Machine (Python)
+https://hyperskill.org/projects/69 Hangman (Python)
+https://hyperskill.org/projects/70 Unit Converter
+https://hyperskill.org/projects/71 ASCII Text Signature
+https://hyperskill.org/projects/72 Stopwatch with Productivity Timer
+https://hyperskill.org/projects/73 Simple Tic-Tac-Toe with Python
+https://hyperskill.org/projects/74 Smart Calculator (Python)
+https://hyperskill.org/projects/75 Parking Lot
+https://hyperskill.org/projects/76 Budget Manager
+https://hyperskill.org/projects/77 Minesweeper (Java)
+https://hyperskill.org/projects/78 Rock-Paper-Scissors (Python)
+https://hyperskill.org/projects/79 Text-Based Browser
+https://hyperskill.org/projects/80 Password Hacker with Python
+https://hyperskill.org/projects/81 Tic-Tac-Toe with AI (Java)
+https://hyperskill.org/projects/82 Tic-Tac-Toe with AI (Python)
+https://hyperskill.org/projects/83 Flashcards (Kotlin)
+https://hyperskill.org/projects/84 Google Search Algorithm with Java
+https://hyperskill.org/projects/85 Hypercar Service Center
+https://hyperskill.org/projects/86 Phone Book (Kotlin)
+https://hyperskill.org/projects/87 Numeric Matrix Processor (Kotlin)
+https://hyperskill.org/projects/88 Smart Calculator (Kotlin)
+https://hyperskill.org/projects/89 Simple Search Engine (Kotlin)
+https://hyperskill.org/projects/90 Loan Calculator
+https://hyperskill.org/projects/91 Web Quiz Engine with Java
+https://hyperskill.org/projects/92 Google Search Algorithm with Python
+https://hyperskill.org/projects/93 Simple Banking System (Java)
+https://hyperskill.org/projects/94 HyperJob Agency
+https://hyperskill.org/projects/95 Simple Chat Bot (Kotlin)
+https://hyperskill.org/projects/96 Numeric Matrix Processor (Python)
+https://hyperskill.org/projects/97 Simple Chat Bot with Python
+https://hyperskill.org/projects/98 Zookeeper with Python
+https://hyperskill.org/projects/99 Multilingual Online Translator
+https://hyperskill.org/projects/100 Seam Carving
+https://hyperskill.org/projects/101 Virtual Piano
+https://hyperskill.org/projects/102 HyperNews Portal
+https://hyperskill.org/projects/103 Test
+https://hyperskill.org/projects/104 Robot Technical Writer
+https://hyperskill.org/projects/105 To-Do List (Python)
+https://hyperskill.org/projects/106 Sorting Tool (Kotlin)
+https://hyperskill.org/projects/107 Numeral System Converter (Kotlin)
+https://hyperskill.org/projects/108 Minesweeper with React
+https://hyperskill.org/projects/109 Simple Banking System (Python)
+https://hyperskill.org/projects/110 Git Internals
+https://hyperskill.org/projects/111 Smart Calculator (Scala)
+https://hyperskill.org/projects/112 Static Code Analyzer
+https://hyperskill.org/projects/113 Simple Chat Bot with Java
+https://hyperskill.org/projects/114 Regex Engine (Python)
+https://hyperskill.org/projects/115 Flashcards (Frontend)
+https://hyperskill.org/projects/116 Tic-Tac-Toe
+https://hyperskill.org/projects/117 Tic-Tac-Toe with AI
+https://hyperskill.org/projects/118 Tic-Tac-Toe
+https://hyperskill.org/projects/119 Tic-Tac-Toe with AI
+https://hyperskill.org/projects/120 HyperMetro
+https://hyperskill.org/projects/121 file not found
+https://hyperskill.org/projects/122 file not found
+https://hyperskill.org/projects/123 Simple Tic-Tac-Toe (Kotlin)
+https://hyperskill.org/projects/124 Simple Text Summarization
+https://hyperskill.org/projects/125 Battleship with Java
+https://hyperskill.org/projects/126 Simple Chat Bot (Kotlin)
+https://hyperskill.org/projects/127 Flashcards (Python)
+https://hyperskill.org/projects/128 Easy Rider Bus Company
+https://hyperskill.org/projects/129 Meal Planner (Kotlin)
+https://hyperskill.org/projects/130 Code-sharing Platform
+https://hyperskill.org/projects/131 HyperTube
+https://hyperskill.org/projects/132 Guess the Animal (Java)
+https://hyperskill.org/projects/133 Cinema Room Manager
+https://hyperskill.org/projects/134 Text Generator
+https://hyperskill.org/projects/135 Robogotchi
+https://hyperskill.org/projects/136 Duskers
+https://hyperskill.org/projects/137 Portfolio
+https://hyperskill.org/projects/138 Cinema Room Manager (Kotlin)
+https://hyperskill.org/projects/139 Coffee Machine Creative
+https://hyperskill.org/projects/140 Car Sharing
+https://hyperskill.org/projects/141 Knight's Tour Puzzle
+https://hyperskill.org/projects/142 Shared Expenses Tracker
+https://hyperskill.org/projects/143 Open Space
+https://hyperskill.org/projects/144 Linear Equations Solver (Python)
+https://hyperskill.org/projects/145 Web Scraper
+https://hyperskill.org/projects/146 Dominoes
+https://hyperskill.org/projects/147 Tetris
+https://hyperskill.org/projects/148 The project is not ready yet
+https://hyperskill.org/projects/149 file not found
+https://hyperskill.org/projects/150 file not found
+https://hyperskill.org/projects/151 Convoy Shipping Company
+https://hyperskill.org/projects/152 Data Analysis for Hospitals
+https://hyperskill.org/projects/153 test project
+https://hyperskill.org/projects/154 test project2
+https://hyperskill.org/projects/155 Readability Score (Python)
+https://hyperskill.org/projects/156 Generating Randomness
+https://hyperskill.org/projects/157 Currency Converter
+https://hyperskill.org/projects/158 Tip Calculator
+https://hyperskill.org/projects/159 Memorization Tool
+https://hyperskill.org/projects/160 Steganography and Cryptography
+https://hyperskill.org/projects/161 Text Based Adventure Game
+https://hyperskill.org/projects/162 Markdown Editor
+https://hyperskill.org/projects/163 University Admission Procedure (Python)
+https://hyperskill.org/projects/164 Weather App
+https://hyperskill.org/projects/165 Number Base Converter (Kotlin)
+https://hyperskill.org/projects/166 Key Terms Extraction
+https://hyperskill.org/projects/167 Food Blog Backend
+https://hyperskill.org/projects/168 HyperSearch Engine
+https://hyperskill.org/projects/169 Colorizer API
+https://hyperskill.org/projects/170 Web Calendar
+https://hyperskill.org/projects/171 SQLite Viewer
+https://hyperskill.org/projects/172 HyperForms
+https://hyperskill.org/projects/173 Arithmetic Exam Application
+https://hyperskill.org/projects/174 Desktop Tic-Tac-Toe
+https://hyperskill.org/projects/175 Bill Splitter
+https://hyperskill.org/projects/176 Duplicate File Handler (Python)
+https://hyperskill.org/projects/177 Version Control System
+https://hyperskill.org/projects/178 file not found
+https://hyperskill.org/projects/179 file not found
+https://hyperskill.org/projects/180 Recipe Management System
+https://hyperskill.org/projects/181 Number Base Converter (Java)
+https://hyperskill.org/projects/182 Pawns-Only Chess
+https://hyperskill.org/projects/183 To-Do List (JavaScript)
+https://hyperskill.org/projects/184 Amazing Numbers
+https://hyperskill.org/projects/185 Spam Filter
+https://hyperskill.org/projects/186 file not found
+https://hyperskill.org/projects/187 file not found
+https://hyperskill.org/projects/188 file not found
+https://hyperskill.org/projects/189 Cinema Room REST Service with Java
+https://hyperskill.org/projects/190 Basic Calculator
+https://hyperskill.org/projects/191 Desktop Calculator
+https://hyperskill.org/projects/192 Fraud Detection
+https://hyperskill.org/projects/193 Case Converter
+https://hyperskill.org/projects/194 Coffee Machine (Go)
+https://hyperskill.org/projects/195 Linear Regression from Scratch
+https://hyperskill.org/projects/196 Zookeeper (Kotlin)
+https://hyperskill.org/projects/197 Learning Progress Tracker (Java)
+https://hyperskill.org/projects/198 Cinema Room Manager (Android)
+https://hyperskill.org/projects/199 Hypergram
+https://hyperskill.org/projects/200 It's Raining Cubes
+https://hyperskill.org/projects/201 Obscene Vocabulary Checker
+https://hyperskill.org/projects/202 Connect Four
+https://hyperskill.org/projects/203 Hit'n'Run
+https://hyperskill.org/projects/204 Sunny Mood
+https://hyperskill.org/projects/205 Classification of Handwritten Digits
+https://hyperskill.org/projects/206 Simple Chat Bot (Go)
+https://hyperskill.org/projects/207 Graph-Algorithms Visualizer
+https://hyperskill.org/projects/208 Honest Calculator
+https://hyperskill.org/projects/209 Create Glowing Bacteria
+https://hyperskill.org/projects/210 Hyperskill Cafe
+https://hyperskill.org/projects/211 Inventory and POS System
+https://hyperskill.org/projects/212 Matrices and Population Genetics
+https://hyperskill.org/projects/213 Algorithms with IMDB
+https://hyperskill.org/projects/214 Indigo Card Game
+https://hyperskill.org/projects/215 Recipe Builder API
+https://hyperskill.org/projects/216 Opinion Detector
+https://hyperskill.org/projects/217 Account Service (Java)
+https://hyperskill.org/projects/218 Regex Tester (Django)
+https://hyperskill.org/projects/219 Logistic Regression from Scratch
+https://hyperskill.org/projects/220 Coffee Machine (JavaScript)
+https://hyperskill.org/projects/221 Simple Chat Bot (JavaScript)
+https://hyperskill.org/projects/222 Watermark
+https://hyperskill.org/projects/223 Sharp Shooter
+https://hyperskill.org/projects/224 Flashcards (Go)
+https://hyperskill.org/projects/225 Zookeeper (JavaScript)
+https://hyperskill.org/projects/226 Desktop Connect Four
+https://hyperskill.org/projects/227 Virtual Piano (Mocha)
+https://hyperskill.org/projects/228 HyperDarts
+https://hyperskill.org/projects/229 Zookeeper with Java
+https://hyperskill.org/projects/230 Fantastic Beings and How to Match Them
+https://hyperskill.org/projects/231 Simple Currency Converter
+https://hyperskill.org/projects/232 Anti-Fraud System
+https://hyperskill.org/projects/233 A/B Test for Delivery App
+https://hyperskill.org/projects/234 University Admission Procedure (Go)
+https://hyperskill.org/projects/235 Read Quality Control
+https://hyperskill.org/projects/236 Cipher Decoder
+https://hyperskill.org/projects/237 Tasklist
+https://hyperskill.org/projects/238 In-Memory Notepad
+https://hyperskill.org/projects/239 Magic Form
+https://hyperskill.org/projects/240 Duplicate File Handler (Go)
+https://hyperskill.org/projects/241 Photo Editor
+https://hyperskill.org/projects/242 To-do List API
+https://hyperskill.org/projects/243 First Landing
+https://hyperskill.org/projects/244 File Type Analyzer (Kotlin)
+https://hyperskill.org/projects/245 Guess the Animal (Kotlin)
+https://hyperskill.org/projects/246 Photo Editor Test
+https://hyperskill.org/projects/247 Regex Tester (Flask)
+https://hyperskill.org/projects/248 It's Raining Cubes
+https://hyperskill.org/projects/249 Properties of Compact Groups of Galaxies
+https://hyperskill.org/projects/250 Neural Network from Scratch
+https://hyperskill.org/projects/251 Training Field
+https://hyperskill.org/projects/252 Simple Calculator
+https://hyperskill.org/projects/253 Decision Tree with Pen and Paper
+https://hyperskill.org/projects/254 Regex Engine (Go)
+https://hyperskill.org/projects/255 HyperSchool
+https://hyperskill.org/projects/256 Simple Converter
+https://hyperskill.org/projects/257 Sunny Mood
+https://hyperskill.org/projects/258 Last Pencil (Python)
+https://hyperskill.org/projects/259 Decision Tree from Scratch
+https://hyperskill.org/projects/260 ASCII Mirror
+https://hyperskill.org/projects/261 Contacts (Kotlin)
+https://hyperskill.org/projects/262 Blockchain (Kotlin)
+https://hyperskill.org/projects/263 Cinema Room REST Service (Kotlin)
+https://hyperskill.org/projects/264 Calculator for Investors
+https://hyperskill.org/projects/265 Hangman (JavaScript)
+https://hyperskill.org/projects/266 Bike Shop
+https://hyperskill.org/projects/267 Coffee Machine (Scala)
+https://hyperskill.org/projects/268 HR Data Analysis
+https://hyperskill.org/projects/269 Simple Tic-Tac-Toe (Scala)
+https://hyperskill.org/projects/270 Movie Quality Predictor
+https://hyperskill.org/projects/271 Blockchain (Go)
+https://hyperskill.org/projects/272 Library Management System
+https://hyperskill.org/projects/273 Movie Quality Predictor
+https://hyperskill.org/projects/274 Enigma
+https://hyperskill.org/projects/275 Crossword Scrabble
+https://hyperskill.org/projects/276 Secret Diary
+https://hyperskill.org/projects/277 Carnival Gift Shop
+https://hyperskill.org/projects/278 Smart Calculator (Go)
+https://hyperskill.org/projects/279 Encryption-Decryption (Kotlin)
+https://hyperskill.org/projects/280 Monty Hall Problem
+https://hyperskill.org/projects/281 Game of Life (Go)
+https://hyperskill.org/projects/282 Petbook
+https://hyperskill.org/projects/283 ELISA
+https://hyperskill.org/projects/284 HotKitchen
+https://hyperskill.org/projects/285 NBA Data Preprocessing
+https://hyperskill.org/projects/286 K-Means Clustering from Scratch
+https://hyperskill.org/projects/287 Salary Prediction
+https://hyperskill.org/projects/288 Traffic Light Simulator with Java
+https://hyperskill.org/projects/289 Music Player
+https://hyperskill.org/projects/290 Words Virtuoso
+https://hyperskill.org/projects/291 HyperCinema
+https://hyperskill.org/projects/292 Check-Chick-Trim
+https://hyperskill.org/projects/293 Chuck Norris Cipher Encoder (Java)
+https://hyperskill.org/projects/294 True or False
+https://hyperskill.org/projects/295 Video Game Database
+https://hyperskill.org/projects/296 Gitman
+https://hyperskill.org/projects/297 Hacker Attack
+https://hyperskill.org/projects/298 Tamago
+https://hyperskill.org/projects/299 Soft Kitty
+https://hyperskill.org/projects/300 Chuck Norris Cipher Encoder (Kotlin)
+https://hyperskill.org/projects/301 Soft Kitty
+https://hyperskill.org/projects/302 Nobel Laureates
+https://hyperskill.org/projects/303 Phrases
+https://hyperskill.org/projects/304 Hospital Appointment Booking System
+https://hyperskill.org/projects/305 Maze Runner (Python)
+https://hyperskill.org/projects/306 Rock-Paper-Scissors (Go)
+https://hyperskill.org/projects/307 Sorting Tool with Python
+https://hyperskill.org/projects/308 Maze Runner (Kotlin)
+https://hyperskill.org/projects/309 Amazing Prices
+https://hyperskill.org/projects/310 Remo
+https://hyperskill.org/projects/311 Long Whale Ago
+https://hyperskill.org/projects/312 Dolly
+https://hyperskill.org/projects/313 Real-time Chat
+https://hyperskill.org/projects/314 Rock-Paper-Scissors (Java)
+https://hyperskill.org/projects/315 School of Wizards and Magic Wars
+https://hyperskill.org/projects/316 Web Quiz Engine (Kotlin)
+https://hyperskill.org/projects/317 Corpus Annotation from Scratch
+https://hyperskill.org/projects/318 Meal Planner (Java)
+https://hyperskill.org/projects/319 HyperCollections
+https://hyperskill.org/projects/320 Postprocessor
+https://hyperskill.org/projects/321 Naive Bayes Classifier with Pen and Paper
+https://hyperskill.org/projects/322 JSON Database (Kotlin)
+https://hyperskill.org/projects/323 Dog Glossary
+https://hyperskill.org/projects/324 Jeopardy! Question Answering Bot
+https://hyperskill.org/projects/325 Movie Database API
+https://hyperskill.org/projects/326 Learning Progress Tracker (Python)
+https://hyperskill.org/projects/327 Hyper Commander
+https://hyperskill.org/projects/328 URL Shortener
+https://hyperskill.org/projects/329 Password Hacker (Java)
+https://hyperskill.org/projects/330 File Janitor
+https://hyperskill.org/projects/331 Marathon Runners
+https://hyperskill.org/projects/332 Account Service (Kotlin)
+https://hyperskill.org/projects/333 Simple Bank Manager
+https://hyperskill.org/projects/334 Spell Checker
+https://hyperskill.org/projects/335 Restaurant Menu App
+https://hyperskill.org/projects/336 Above the Rim API
+https://hyperskill.org/projects/337 Photo Slider
+https://hyperskill.org/projects/338 File Server (Kotlin)
+https://hyperskill.org/projects/339 Tetris with Java
+https://hyperskill.org/projects/340 Cats and Dogs Classification with Pre-trained Neural Network
+https://hyperskill.org/projects/341 Last Pencil (Java)
+https://hyperskill.org/projects/342 Medical Geneticist Routine
+https://hyperskill.org/projects/343 My First Project with Python
+https://hyperskill.org/projects/344 HyperMetro (Kotlin)
+https://hyperskill.org/projects/345 From Woof to SNP
+https://hyperskill.org/projects/346 Run Docker Run
+https://hyperskill.org/projects/347 Optimize Learning Path
+https://hyperskill.org/projects/348 Barbershop Simulation
+https://hyperskill.org/projects/349 Reminder Application
+https://hyperskill.org/projects/350 Honest Calculator (Java)
+https://hyperskill.org/projects/351 Traffic Light (Python)
+https://hyperskill.org/projects/352 Computer Store Database
+https://hyperskill.org/projects/353 Simple Wallpaper Manager
+https://hyperskill.org/projects/354 Random Forest from Scratch
+https://hyperskill.org/projects/355 Smart Calendar
+https://hyperskill.org/projects/356 HyperSearch Engine
+https://hyperskill.org/projects/357 File Type Analyzer (Go)
+https://hyperskill.org/projects/358 Databases for Sales
+https://hyperskill.org/projects/359 Who Wants to Be a Millionaire
+https://hyperskill.org/projects/360 Can You Transplant It?
+https://hyperskill.org/projects/361 Principal Component Analysis with Pen and Paper
+https://hyperskill.org/projects/362 Site for Marathon
+https://hyperskill.org/projects/363 Battleship (Kotlin)
+https://hyperskill.org/projects/364 Bulls and Cows (Kotlin)
+https://hyperskill.org/projects/365 Cracking The Caesar Cipher
+https://hyperskill.org/projects/366 Tic-Tac-Toe Online
+https://hyperskill.org/projects/367 Rhythm Store
+https://hyperskill.org/projects/368 Website For The Visually Impaired
+https://hyperskill.org/projects/369 BugBusters
+https://hyperskill.org/projects/370 House Classification
+https://hyperskill.org/projects/371 Mediatheque
+https://hyperskill.org/projects/372 Random User Generator
+https://hyperskill.org/projects/373 HyperNetwork
+https://hyperskill.org/projects/374 Composer
+https://hyperskill.org/projects/375 Payroll Management Database
+https://hyperskill.org/projects/376 Aquarium
+https://hyperskill.org/projects/377 Tagger
+https://hyperskill.org/projects/378 File Manager
+https://hyperskill.org/projects/379 Assemble Bacteria
+https://hyperskill.org/projects/380 My First Project with Java
+https://hyperskill.org/projects/381 Password Checker
+https://hyperskill.org/projects/382 Electronics Store Customer
+https://hyperskill.org/projects/383 Battleship with Java
+https://hyperskill.org/projects/384 CLI Assistant
+https://hyperskill.org/projects/385 QRCode Service
+https://hyperskill.org/projects/386 Banking Simulator
+https://hyperskill.org/projects/387 Automatic Polish Name Anglicization with Transformers
+https://hyperskill.org/projects/388 Tagger2 Test
+https://hyperskill.org/projects/389 Memorization Tool (Go)
+https://hyperskill.org/projects/390 Calculate Metrics with Pen and Paper
+https://hyperskill.org/projects/391 X-mas Tree
+https://hyperskill.org/projects/392 Predictive Analysis and Optimization with Boosting Algorithms
+https://hyperskill.org/projects/393 Chalkboard Printer
+https://hyperskill.org/projects/394 Fake News Detection
+https://hyperskill.org/projects/395 Safety Net
+https://hyperskill.org/projects/396 Web Calendar
+https://hyperskill.org/projects/397 File Share
+https://hyperskill.org/projects/398 Aptitude Evaluator
+https://hyperskill.org/projects/399 Cinema Room Manager (Go)
+https://hyperskill.org/projects/400 Battleship Database
+https://hyperskill.org/projects/401 NgurraChat Censor App
+https://hyperskill.org/projects/402 TestCppProjectTemp
+https://hyperskill.org/projects/403 Test2C++
+https://hyperskill.org/projects/404 CppTest3
+https://hyperskill.org/projects/405 CppTest4Python
+https://hyperskill.org/projects/406 Warehouse
+https://hyperskill.org/projects/407 Zookeeper (C++)
+https://hyperskill.org/projects/408 Fitness Tracker API
+https://hyperskill.org/projects/409 Customer Feedback Service
+https://hyperskill.org/projects/410 Text Processor
+https://hyperskill.org/projects/411 Simple Banking System (Go) don't work
+https://hyperskill.org/projects/412 ToDo List (Flask)
+https://hyperskill.org/projects/413 Simple Banking System (Go)
+https://hyperskill.org/projects/414 QRCode Service (Kotlin)
+https://hyperskill.org/projects/415 File Share (Kotlin)
+https://hyperskill.org/projects/416 Hyperblog HTML
+https://hyperskill.org/projects/417 Morse Translator
+https://hyperskill.org/projects/418 Fitness API (Kotlin)
+https://hyperskill.org/projects/419 Customer Feedback Service (Kotlin)
+https://hyperskill.org/projects/420 Version Control System (Go)
+https://hyperskill.org/projects/421 My First Project with Go
+https://hyperskill.org/projects/422 Ensemble ML Algorithms
+https://hyperskill.org/projects/423 Task Management System
+https://hyperskill.org/projects/424 Transaction Aggregator
+https://hyperskill.org/projects/425 Blackboard
+https://hyperskill.org/projects/426 My First Project (JavaScript)
+https://hyperskill.org/projects/427 Need delete Simple Tic-Tac-Toe (C++)
+https://hyperskill.org/projects/428 Need delete - URL Shortener (Spring)
+https://hyperskill.org/projects/429 Coloring
+https://hyperskill.org/projects/430 Loan Calculator (Go)
+https://hyperskill.org/projects/431 Rock-Paper-Scissors (C++)
+https://hyperskill.org/projects/432 URL Shortener (Spring)
+https://hyperskill.org/projects/433 Console Bot (C++)
+https://hyperskill.org/projects/434 Simple Tic-Tac-Toe (C++)
+https://hyperskill.org/projects/435 Don't use
+https://hyperskill.org/projects/436 Message Decipher
+https://hyperskill.org/projects/437 Blog Notifier
+https://hyperskill.org/projects/438 Kampus
+https://hyperskill.org/projects/439 Crafting Emails with AI
+https://hyperskill.org/projects/440 Recycling Organization
+https://hyperskill.org/projects/441 Programming Assistant with AI
+https://hyperskill.org/projects/442 Web Calendar (Kotlin)
+https://hyperskill.org/projects/443 Basic Clustering for Complex Shapes
+https://hyperskill.org/projects/444 List of Flats (React)
+https://hyperskill.org/projects/445 Coffee Breaks Analyzer
+https://hyperskill.org/projects/446 Motivational Letter with AI Assistance
+https://hyperskill.org/projects/447 Airline Transportation
+https://hyperskill.org/projects/448 Simple Stopwatch
+https://hyperskill.org/projects/449 Practicing Interview
+https://hyperskill.org/projects/450 Drone Medication API
+https://hyperskill.org/projects/451 Color Guess Game
+https://hyperskill.org/projects/452 The Stock Analyzer
+https://hyperskill.org/projects/453 Spin The Bottle
+https://hyperskill.org/projects/454 Programming Assistant with AI (Kotlin)
+https://hyperskill.org/projects/455 Programming Assistant with AI (Java)
+https://hyperskill.org/projects/456 Create a Target Persona with ChatGPT
+https://hyperskill.org/projects/457 MySQL Workbench
+https://hyperskill.org/projects/458 AutoCoder
+https://hyperskill.org/projects/459 Learning Assistant
+https://hyperskill.org/projects/460 AI Prompt Optimization Tool
+https://hyperskill.org/projects/461 Fine-tuned Vacation Planner
+https://hyperskill.org/projects/462 Cinema Room Manager (C++)
+https://hyperskill.org/projects/463 Goods Category Prediction
+https://hyperskill.org/projects/464 AI Career Consultant
+https://hyperskill.org/projects/465 LinkedIn Profile Builder
+https://hyperskill.org/projects/466 Trip Analytics
+https://hyperskill.org/projects/467 Interview Preparation with AI [doesn't work]
+https://hyperskill.org/projects/468 Build Your CV
+https://hyperskill.org/projects/469 Interview Preparation with AI
+https://hyperskill.org/projects/470 Interview Preparation with AI [doesn't work]
+https://hyperskill.org/projects/471 Business Reality Analysis
+https://hyperskill.org/projects/472 Crafting Prototypes with Midjourney
+https://hyperskill.org/projects/473 Data Summarization and Insights with SQL and Generative AI
+https://hyperskill.org/projects/474 Competitors Discovery
+https://hyperskill.org/projects/475 Skill Enhancement Tool
+https://hyperskill.org/projects/476 Unit Testing Assistant
+https://hyperskill.org/projects/477 News Text Summarization
+https://hyperskill.org/projects/478 Simple Python CLI Chat
+https://hyperskill.org/projects/479 AI News Analyzer
