@@ -1,5 +1,4 @@
 # mine
-
 ticket = [int(x) for x in input()]
 half1 = sum(ticket[:3])
 half2 = sum(ticket[3:])
