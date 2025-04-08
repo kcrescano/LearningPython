@@ -30,5 +30,5 @@ def add(*args):
 small_numbers = [1, 2, 3]
 large_numbers = [9999999, 1111111]
 
-print(add(*small_numbers))  # 6
-print(add(*large_numbers))  # 11111110
+print(add(*small_numbers))  # * unpack iterables
+print(add(*large_numbers))
