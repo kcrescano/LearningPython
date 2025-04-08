@@ -19,3 +19,10 @@ def greet(name, surname="Willy"): # parameters can have default value
 greet("Willy", "Wonka")               # Hello, Willy Wonka
 # Keyword arguments
 greet(surname="Wonka", name="Willy")  # Hello, Willy Wonka
+
+# Args
+def add(a, b, *args):
+  total = a + b
+  for n in args:
+    total += n
+  return total
