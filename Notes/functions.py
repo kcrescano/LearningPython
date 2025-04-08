@@ -21,8 +21,14 @@ greet("Willy", "Wonka")               # Hello, Willy Wonka
 greet(surname="Wonka", name="Willy")  # Hello, Willy Wonka
 
 # Args
-def add(a, b, *args):
-  total = a + b
-  for n in args:
-    total += n
-  return total
+def add(*args):
+    total = 0
+    for n in args:
+        total += n
+    return total
+  
+small_numbers = [1, 2, 3]
+large_numbers = [9999999, 1111111]
+
+print(add(*small_numbers))  # 6
+print(add(*large_numbers))  # 11111110
