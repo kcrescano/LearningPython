@@ -11,3 +11,11 @@ def function():
 # similiar to void functions
 
 print(function(x, y))  # invoking function, x and y here are arguments
+
+def greet(name, surname):
+    print("Hello,", name, surname)
+# Non-keyword arguments
+greet("Willy", "Wonka")               # Hello, Willy Wonka
+# Keyword arguments
+greet(surname="Wonka", name="Willy")  # Hello, Willy Wonka
+# Keywords comes after non-key words
