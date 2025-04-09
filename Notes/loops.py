@@ -22,3 +22,5 @@ while i < 6:
   print(i)
   i += 1
 # else, continue and break works the same with while loop
+
+# break, continue and pass are used to control loops
