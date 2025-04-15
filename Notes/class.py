@@ -20,3 +20,27 @@ nile = River("Nile", 6852)
 volga.get_info()
 # class.method(self)
 River.get_info(volga)
+#**************************************************************************
+# parent class
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+# child class
+class Dog(Animal):
+    pass
+  
+cow = Animal("Bessie")  # instance of Animal
+corgi = Dog("Baxter")   # instance of Dog
+
+print(type(cow) == Animal)  # True
+print(type(cow) == Dog)     # False
+
+print(isinstance(cow, Animal))    # True
+print(isinstance(corgi, Animal))  # True
+print(isinstance(cow, Dog))    # False
+
+print(issubclass(Dog, Animal))  # True
+print(issubclass(Animal, Dog))  # False
+print(issubclass(corgi, Dog))   # TypeError
+print(issubclass(Dog, (Animal, object)))  # True
