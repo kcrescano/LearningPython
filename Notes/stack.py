@@ -1,17 +1,11 @@
 class Stack:
     def __init__(self):
         self.stack = []
-    def 
-
-(self, item):
+    def push(self, item):
         self.stack.append(item)
-    def 
-
-(self):
+    def pop(self):
         return self.stack.pop()
-    def 
-
-(self):
+    def peek(self):
         return str(self.stack[-1])
     
 s = Stack()
