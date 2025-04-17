@@ -15,3 +15,15 @@ print(*"You are the best programmer!".split(), sep='\n')
 print('\n'.join("You are the best programmer!".split()))
 # Hyperskill user posted solutions
 print("You are the best programmer!".replace(" ", "\n"))
+#**************************************************************************
+# mine
+text = input().strip().split()
+text = [word.capitalize() for word in text]
+text[0] = text[0].lower()
+print(*text, sep='')
+# Hyperskill user posted solutions
+sentence = input().title().split()
+print(sentence[0].lower() + "".join(sentence[1:]))
+# Hyperskill user posted solutions
+text = "".join(input().title().split())
+print(text[:1].lower() + text[1:])
