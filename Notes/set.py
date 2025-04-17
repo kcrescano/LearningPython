@@ -42,6 +42,8 @@ nums = {1, 2, 2, 3}
 nums.pop()  # random
 print(nums)  # {2, 3}
 
+nums.clear()  # remove all
+
 # frozenset is immutable and can be part of list and can be a key in dict
 some_frozenset = frozenset(text)
 nested_text.add(some_frozenset)
