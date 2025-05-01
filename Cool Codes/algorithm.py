@@ -27,3 +27,13 @@ try:
     print('OK' if not br else 'ERROR')
 except IndexError:
     print('ERROR')
+#**************************************************************************
+# mine
+def startswith_capital_counter(names):
+    return len([name for name in names if name[0].isupper()])
+# Hyperskill user posted solution
+def startswith_capital_counter(names):
+    return sum(name.istitle() for name in names)
+# Hyperskill user posted solution
+def startswith_capital_counter(names):
+    return len(list(filter(lambda x: x.istitle(), names)))
