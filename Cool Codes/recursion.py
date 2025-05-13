@@ -7,3 +7,13 @@ def is_sorted(n):
     return ones <= tens and is_sorted(n // 10)
 
 print(is_sorted(int(input())))
+#************************************************************
+def sum_largest(n, k):
+    if n and k:
+        return int(n.pop()) + sum_largest(n, k - 1)
+    return 0
+
+number = input()
+digits = int(input())
+
+print(sum_largest(sorted(number), digits))
