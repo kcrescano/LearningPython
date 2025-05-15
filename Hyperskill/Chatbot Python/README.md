@@ -1,7 +1,5 @@
 # Chatbot Project on Hyperskill
 
-(https://github.com/user-attachments/assets/d19e2067-2ea4-4e0e-b097-c9e1cc6985b9)
-
 ### About
 
 Get started building your own simple chatbot! This project will guide you through creating a console-based assistant in Python that can exchange greetings, take your name, and solve basic math problems.
