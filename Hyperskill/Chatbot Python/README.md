@@ -1,7 +1,6 @@
 Chatbot Project on Hyperskill
 
-![97_simple_chat_bot_python-min](https://github.com/user-attachments/assets/dfe628d8-08a4-47bd-a9b5-8aef03536619)
-
+<img src="97_simple_chat_bot_python-min](https://github.com/user-attachments/assets/dfe628d8-08a4-47bd-a9b5-8aef03536619" alt="Sample Image" width="400" height="300">
 
 About
 
