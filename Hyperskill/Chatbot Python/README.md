@@ -1,6 +1,6 @@
 # Chatbot Project on Hyperskill
 
-![97_simple_chat_bot_python-min](https://github.com/user-attachments/assets/d19e2067-2ea4-4e0e-b097-c9e1cc6985b9)
+(https://github.com/user-attachments/assets/d19e2067-2ea4-4e0e-b097-c9e1cc6985b9)
 
 ### About
 
