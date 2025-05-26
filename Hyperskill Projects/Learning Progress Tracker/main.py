@@ -22,8 +22,8 @@ def add_students():
             elif not valid_email(email):
                 print("Incorrect email")
             else:
-                print("The students has been added.")
                 new_students[email] = (first_name, " ".join(last_name))
+                print("The students has been added.")
         except ValueError:
             print("Incorrect credentials.")
 
