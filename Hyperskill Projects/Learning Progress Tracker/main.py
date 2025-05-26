@@ -2,7 +2,6 @@ import re
 
 def valid_name(*names):
     for name in names:
-        print(name)
         if len(name) < 2 or not name.replace("'", "").replace("-", '').isalpha():
             return False
     return True
@@ -15,18 +14,18 @@ def add_students():
     print("Enter student credentials or 'back' to return:")
     while (info := input("")) != 'back':
         try:
-            *name, email = info.strip().split()
-            if not valid_name(name[:1]):
+            first_name, *last_name, email = info.strip().split()
+            if not valid_name(first_name):
                 print("Incorrect first name")
-            elif not valid_name(name[1:]):
+            elif not valid_name(*last_name):
                 print("Incorrect last name")
             elif not valid_email(email):
                 print("Incorrect email")
+            else:
+                print("The students has been added.")
+                new_students[email] = (first_name, " ".join(last_name))
         except ValueError:
             print("Incorrect credentials.")
-        else:
-            print("The students has been added.")
-            new_students[email] = (name[:1], " ".join(name[1:]))
 
     print(f"Total {len(new_students)} students have been added.")
     return new_students
