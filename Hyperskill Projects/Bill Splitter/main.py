@@ -12,7 +12,6 @@ if users:
     if input() == 'Yes':
         share = bill / (len(users) - 1)
         lucky = random.choice(list(users.keys()))
-        print(f'{lucky} is the lucky one!')
     else:
         share = bill / len(users)  
         
@@ -22,6 +21,7 @@ if users:
     try:
         if lucky:
             users[lucky] = 0
+            print(f'{lucky} is the lucky one!')
     except NameError:
         print('No one is going to be lucky')
 
